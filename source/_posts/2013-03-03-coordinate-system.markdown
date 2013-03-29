@@ -285,7 +285,6 @@ convertToWorldSpace(const CCPoint& nodePoint) converts on-node coords to SCREEN 
 Example:
 </div>
 
-convertToWorldSpace(常量 CCPoint& nodePoint) 转换node坐标为屏幕坐标。convertToWorldSpace通常返回精灵的屏幕位置，如果你想捕获精灵上的轻拍却需要移动/缩放layer的时候，这可能非常有帮助。
 convertToWorldSpace(常量 CCPoint& nodePoint) 转换node坐标为屏幕坐标。convertToWorldSpace通常返回精灵的屏幕位置，如果你想捕获精灵上的触摸事件却需要移动/缩放layer的时候，这可能非常有帮助。
 
 ```
