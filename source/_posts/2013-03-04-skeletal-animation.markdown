@@ -200,5 +200,5 @@ Thank you taking the time to read through the tutorial and happy coding!If you h
 </div>
 谢谢你们花时间来阅读本教程，祝编程愉快！如果你有其他骨骼动画的动作，请通知我们或者发邮件到此wiki。
 ## 参考 
-[Creating a game with cocosbuilder](http://code.zynga.com/2012/10/creating-a-game-with-cocosbuilder/)
+[Creating a game with cocosbuilder](http://code.zynga.com/2012/10/creating-a-game-with-cocosbuilder/)    
 [CocosBuilder Documentation](http://cocosbuilder.com/)
